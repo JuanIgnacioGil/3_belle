@@ -46,7 +46,7 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  tag: instagram
+  tag: all
 autopages:
   enabled: true
   categories:
