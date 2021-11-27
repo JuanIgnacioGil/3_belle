@@ -4,8 +4,8 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
-name: 3___belle_
-title: 3___belle_
+name: 3___belle__
+title: 3___belle__
 description: >
   "Con la lluvia se pueden hacer paraguas. ☔️"
 url: http://www.eliseplain.com
@@ -15,9 +15,9 @@ social:
   - name: twitter
     url: https://twitter.com/eliseplain
   - name: instagram
-    url: https://www.instagram.com/elise_plain/
+    url: https://www.instagram.com/baruchacalamity
   - name: facebook
-    url: https://www.facebook.com/elise.teran
+    url: https://www.facebook.com/elise36
 
 # Contact settings
 contact_img: /assets/profile/201611/8f8dc2590e0e475170d67bfdc8b3f110.jpg
@@ -56,7 +56,7 @@ autopages:
   tags:
     layouts:
       - 'tag.html'
-    title: "3___belle"
+    title: "3___belle__"
     permalink: '/tag/:tag'
     slugify:
       mode: raw
