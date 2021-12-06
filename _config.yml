@@ -46,7 +46,7 @@ pagination:
   limit: 12
   sort_field: 'date'
   sort_reverse: true
-  tag: photos
+  tag: all
 autopages:
   enabled: true
   categories:
