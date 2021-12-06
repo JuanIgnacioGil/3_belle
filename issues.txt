@@ -1,0 +1,210 @@
+Quitar nombre “fotos” o quizá más bien "all". Aunque vídeos y fotos sí van juntos. Lo que es otra cosa son las historias, algo totalmente secundario. Me tienes que explicar cómo borrar la mayoría.
+
+*
+
+Quitar doble título y “títulos” de las fotos
+
+*
+
+Lo + importante, que se pueda ir pasando de una a una y que si ves una foto y le das a volver no haya que volver a empezar
+
+*
+
+No está:
+
+(Debería ser la 2ª)
+
+layout: post
+title: "2019-08-24"
+date: 2019-08-24 16:23:05
+description: 
+image: "/assets/photos/201908/3dd3964fb61cc9998bd20d09fe249c57.jpg"
+author: Elise Plain
+excerpt: &#34;Días buenos. De ber es&#34;.
+tags: 
+  - photos
+  - all
+---
+
+&#34;Días buenos. De ber es&#34;.
+<p></p>
+
+
+
+Esta tampoco está:
+
+---
+layout: post
+title: "2019-08-12"
+date: 2019-08-12 13:37:14
+description: 
+image: "/assets/photos/201908/eebbb39b98fc1c36224f5c9ed2562c46.jpg"
+author: Elise Plain
+excerpt: Siempre: jours
+tags: 
+  - photos
+  - all
+---
+
+Siempre: jours
+<p></p>
+
+
+Tampoco está:
+
+---
+layout: post
+title: "2019-05-30"
+date: 2019-05-30 15:11:37
+description: 
+image: "/assets/photos/201905/37c3ca4416cd3bb5928efd846ff2f778.jpg"
+author: Elise Plain
+excerpt: Se a
+cabó
+tags: 
+  - photos
+  - all
+---
+
+Se a
+cabó
+<p></p>
+Barbican Centre
+
+
+
+
+No está:
+
+---
+layout: post
+title: "2018-12-02"
+date: 2018-12-02 11:30:12
+description: 
+image: "/assets/photos/201812/065e870f9267508da0b599cb7afc9724.jpg"
+author: Elise Plain
+excerpt: La introspección nos permite tomar distancia del cuerpo y por extensión del mundo (la vida), “re-ver” otra verdad: el paraíso, tu isla tropical [mi tout, o tú, it deepen(d)s], es (sólo con o con tilde) la conciencia imposible de alejar
+tags: 
+  - photos
+  - all
+---
+
+La introspección nos permite tomar distancia del cuerpo y por extensión del mundo (la vida), “re-ver” otra verdad: el paraíso, tu isla tropical [mi tout, o tú, it deepen(d)s], es (sólo con o con tilde) la conciencia imposible de alejar
+<p></p>
+London, United Kingdom
+
+
+
+Tampoco está:
+
+
+---
+layout: post
+title: "2018-10-18"
+date: 2018-10-18 09:32:51
+description: 
+image: "/assets/photos/201810/b6d971bab98ef0ddb9762b8ef91920f2.jpg"
+author: Elise Plain
+excerpt: De la misma manera que hay fronteras (incluso dentro de los propios países: en los aeropuertos) hemos inventado el tiempo. Pero la literatura es parte de la lengua, y la historia es parte de la literatura (la muerte es a la literatura lo que las manecillas al reloj). 🍂
+tags: 
+  - photos
+  - all
+---
+
+De la misma manera que hay fronteras (incluso dentro de los propios países: en los aeropuertos) hemos inventado el tiempo. Pero la literatura es parte de la lengua, y la historia es parte de la literatura (la muerte es a la literatura lo que las manecillas al reloj). 🍂
+<p></p>
+
+
+
+No está:
+
+---
+layout: post
+title: "2018-10-17"
+date: 2018-10-17 14:00:27
+description: 
+image: "/assets/photos/201810/9295db938ce8372c2a6ebd9219103e11.jpg"
+author: Elise Plain
+excerpt: #XiS
+
+oui
+oui
+——
+0
+tags: 
+  - photos
+  - all
+---
+
+#XiS
+
+oui
+oui
+——
+0
+<p></p>
+
+
+Lost:
+
+---
+layout: post
+title: "2018-10-14"
+date: 2018-10-14 03:04:02
+description: 
+image: "/assets/photos/201810/ed50e4f97ff854e3921378fe62ae44ab.jpg"
+author: Elise Plain
+excerpt: Divi-nation: is divinity
+tags: 
+  - photos
+  - all
+---
+
+Divi-nation: is divinity
+<p></p>
+
+
+
+
+No está (especialmente trágico):
+
+
+---
+layout: post
+title: "2018-10-13"
+date: 2018-10-13 14:54:24
+description: 
+image: "/assets/photos/201810/0bf287eb975a8037cf7af5882f6c714a.jpg"
+author: Elise Plain
+excerpt: and
+tags: 
+  - photos
+  - all
+---
+
+and
+<p></p>
+
+
+
+Tampoco está (also dreadful):
+
+---
+layout: post
+title: "2018-10-13"
+date: 2018-10-13 10:18:24
+description: 
+image: "/assets/photos/201810/b02b231904bff606c3b0173ff3c2b5ba.jpg"
+author: Elise Plain
+excerpt: Ni (amo)
+
+ni (ama), Âme.
+tags: 
+  - photos
+  - all
+---
+
+Ni (amo)
+
+ni (ama), Âme.
+<p></p>
