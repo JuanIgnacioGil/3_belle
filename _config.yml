@@ -43,7 +43,7 @@ pagination:
   per_page: 12
   permalink: '/page/:num/'
   title: ':title'
-  limit: 12
+  limit: 12000
   sort_field: 'date'
   sort_reverse: true
   tag: all
